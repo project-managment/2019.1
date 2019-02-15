@@ -37,7 +37,7 @@ Existem várias causas de sucesso e fracasso nos projetos, algumas delas são:
 * Definição clara dos objetivos, requisitos e resultados esperados;
 * Apoio da alta gerência ao projeto;
 
-### Fracasso
+#### Fracasso
 * Não-cumprimento dos prazos;
 * Problemas de comunicação;
 * Escopo não definido adequadamente;
