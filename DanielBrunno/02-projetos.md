@@ -33,34 +33,24 @@ Uma operação é:
 
 Como podemos distingui-los? Por meio das seguintes diferenças:
 
-• As operações são contínuas e repetitivas, com o objetivo de manter o negócio, uma operação poderá ser ;
-
-• Os projetos são temporários e exclusivos com a finalidade de atingir o seu objetivo, e, quando isso ocorre, o projeto termina.
+• As operações são contínuas e repetitivas, com o objetivo de manter o negócio. Uma operação poderá ser revisada e alterada qualquer momento no decorrer do projeto visando atender melhoria em seu progresso;
 
 
 RESTRIÇÕES NO PROJETO
 
 Em uma organização, é comum existirem vários projetos a serem realizados, mas nem sempre essa organização possui recursos suficientes. 
 
-Nesse caso, surgem as Restrições do Projeto. 
-
-Uma Restrição é o estado, a qualidade ou o sentido de estar restrito a uma determinada ação ou inatividade. Uma restrição ou limitação aplicável, interna ou externa,  a um projeto, a qual afetará o desempenho do projeto ou de um processo.
-(Fonte:PMBOK, 2008,4ª edição)
+Uma Restrição é o estado, a qualidade ou o sentido de estar restrito a uma determinada ação ou inatividade. Uma restrição interna ou externa,  a um projeto, a qual afetará o desempenho do projeto ou de um processo.
 
 O PMBOK 3ª edição (2004) considerava como “restrição tripla” – escopo, tempo e custo do projeto – no gerenciamento de necessidades conflitantes do projeto e que a qualidade do projeto era afetada pelo balanceamento desses três fatores. 
 
-TEMPO
+TEMPO, CUSTO, ESCOPO
 
-
-
-CUSTO                                                        ESCOPO
-(Figura 1.1)
+A pesquisadores que acrescentam QUALIDADE como fator de restrições.
 
 Outros fatores vem sendo incluídos, tais como segurança; englobando também saúde e meio ambiente (SSMA) e a satisfação do cliente.
 
-O PMBOK , na sua 4ª edição (2008), considera que o balanceamento das restrições conflitantes de um projeto incluem, mas não se limitam a:
-
-Escopo, Qualidade, Cronograma, Orçamento, Recursos e Risco.
+O PMBOK , na sua 4ª edição (2008), considera que o balanceamento das restrições conflitantes de um projeto incluem, mas não se limitam a: Escopo, Qualidade, Cronograma, Orçamento, Recursos e Risco.
 
 Sendo que as características de cada projeto influenciarão as restrições nas quais o gerente precisará se concentrar.
 
@@ -70,7 +60,7 @@ AS PARTES INTERESSADAS NO PROJETO
 
 As partes interessadas (stakeholders) são pessoas ou organizações ativamente envolvidas no projeto ou cujos interesses podem ser positiva ou negativamente afetados pela execução ou término do projeto.
 
-As principais partes interessadas (stakeholders) no projeto incluem:
+As principais partes interessadas no projeto incluem:
 
 Clientes/usuários - Pessoas ou organizações que usarão o produto, serviço ou resultado do projeto. Os clientes/usuários podem ser internos e/ou externos em relação à organização executora.
 Patrocinador (sponsor) - A pessoa ou o grupo que fornece os recursos financeiros, em dinheiro ou em espécie, para o projeto.
@@ -85,10 +75,7 @@ Fornecedores/parceiros comerciais - Vendedores, fornecedores, ou contratadas, s�
 Outras partes interessadas (stakeholders) - Pessoas ou grupo de pessoas que não estão diretamente relacionadas à aquisição ou ao uso do projeto, mas que podem influenciar, positiva ou negativamente no andamento do projeto.
 
 
-
-
-
-ANÁLISE DAS PARTES INTERESSADAS NO PRO JETO
+ANÁLISE DAS PARTES INTERESSADAS NO PROJETO
 
 A análise das partes interessadas no projeto consiste na identificação dos principais atores envolvidos, na identificação dos seus interesses e do modo como esses interesses irão afetar os riscos e a viabilidade do projeto.
 
@@ -100,18 +87,13 @@ Essa análise pode ser utilizada para:
 • desenvolver estratégias que permitam implementar efetivamente a melhoria do desempenho.
 
 
-EXERCÍCIO
+PRÁTICA
 
 Que tal fazer a análise das partes interessadas do Campeonato Brasileiro?
 
 Algumas das partes interessadas são: torcedores, patrocinadores dos times, jogadores, juízes, comentaristas esportivos, administradores dos estádios, moradores vizinhos aos estádios onde serão realizadas as partidas, empresas de televisão, entre outras que, direta ou indiretamente, são impactadas pelos acontecimentos do campeonato.
 
-Vamos juntos analisar os torcedores e os patrocinadores. Você pode construir uma tabela assim:
-
-
-
-
-Agora faça você a análise das demais partes interessadas.
+Faça você a análise das demais partes interessadas.
 
 Para fazer a análise das partes interessadas é necessário identificar as características das partes envolvidas, precisamos obter as seguintes informações:
 
