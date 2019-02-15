@@ -1,4 +1,7 @@
-### Projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo. 
+## Atividade 02 - Conceitos Fundamentais de Projetos
+### Aluna: Dayane Vitória
+
+#### Projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo. 
 Um projeto tem como principais características: 
 * uma natureza temporária com data de início e fim;
 * é elaborado progressivamente e com etapas incrementais; 
