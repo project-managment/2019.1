@@ -15,7 +15,7 @@ As operações realizadas no projeto são:
 Primeiro é realizado por pessoas, veem a restrição dos recursos limitados da empresa, é planejado e tem controle.
 
 # Restrições do Projeto
-Para uma organização é comum que tenha e exista mais de um projeto sendo desenvolvido, essa empresa/organização nem sempre tem recursos disponiveis. A restrção é um sentido de estar restrito com uma ação ou atividade em andamento.
+Para uma organização é comum que tenha e exista mais de um projeto sendo desenvolvido, essa empresa/organização nem sempre tem recursos disponiveis. A restrição é um sentido de estar restrito com uma ação ou atividade em andamento.
 
 # As partes interessadas do projeto.
 As partes interessadas que são os stakeholders elas podem está ativa em um projeto tendo um interesse de forma positiva ou negativa, afetados pela execução e termino do projeto.
