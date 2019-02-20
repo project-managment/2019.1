@@ -56,7 +56,7 @@ Quando o projeto está em uma organização de forma estratégica precisa ser co
   - Falta de definição de responsabilidades;
   - Problemas com fornecedores;
   - Retrabalho em função da falta de qualidade do produto;
-  - Falta de competência para gerenciar projetos;
+  - Falta de competência para gerenciar projetos.
 
 # Causas de sucesso
 Para um projeto seu sucesso, são necessários:
@@ -77,5 +77,4 @@ Um produto bem sucedido é aquele que tem:
   - Produziu todas as entregas planejadas;
   - Foi encerrado dentro do cronograma aprovado;
   - Foi executado dentro do orçamento aprovado;
-  - Atingiu todas as especificações funcionais, de performance e de qualidade;
-
+  - Atingiu todas as especificações funcionais, de performance e de qualidade.
