@@ -31,7 +31,7 @@ As principais partes interessadas são:
   - Gerentes funcionais;
   - Gerenciamento de operações;
   - Fornecedores;
-  - Stakeholders;
+  - Stakeholders.
   
 # Análise das partes interessadas no projeto  
 As partes interessadas em um projeto consiste na questão dos atores que estão envolvidos, a identificação dos interesses deles, e se esse interesse vai afetar o projeto.
