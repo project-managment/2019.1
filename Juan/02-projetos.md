@@ -70,3 +70,28 @@ Cada organização realiza uma série de atividades para atingir seus objetivos.
 •Fornecedores/parceiros comerciais - Vendedores, fornecedores, ou contratadas, são empresas externas que assinam um contrato para fornecimento de componentes ou serviços necessários ao projeto.
 
 •Outras partes interessadas (stakeholders) - Pessoas ou grupo de pessoas que não estão diretamente relacionadas à aquisição ou ao uso do projeto, mas que podem influenciar, positiva ou negativamente no andamento do projeto.
+
+<h3>CAUSAS DE FRACASSO</h3>
+
+
+• Não-cumprimento dos prazos;
+
+• Problemas de comunicação;
+
+• Escopo não definido adequadamente;
+
+• Recursos humanos insuficientes;
+
+• Riscos não avaliados corretamente;
+
+• Mudanças de prioridade constantes;
+
+• Estimativas incorretas ou sem fundamento;
+
+• Falta de definição de responsabilidades;
+
+• Problemas com fornecedores;
+
+• Retrabalho em função da falta de qualidade do produto;
+
+• Falta de competência para gerenciar projetos;
