@@ -95,3 +95,13 @@ Cada organização realiza uma série de atividades para atingir seus objetivos.
 • Retrabalho em função da falta de qualidade do produto;
 
 • Falta de competência para gerenciar projetos;
+
+<h3>SUCESSO</h3>
+
+• Produziu todas as entregas planejadas;
+
+• Foi encerrado dentro do cronograma aprovado;
+
+• Foi executado dentro do orçamento aprovado;
+
+• Atingiu todas as especificações funcionais, de performance e de qualidade;
