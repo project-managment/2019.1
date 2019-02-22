@@ -1,6 +1,6 @@
 ## Fundamentos de Projeto - Atividade 02
 
-#### Aluna: Rute Fernandes do Nascimento
+##### Aluna: Rute Fernandes do Nascimento
 
 ### Fundamentos de Projeto
  
