@@ -1,4 +1,4 @@
-<H1>RESUMO: Conceitos e fundamentos de gestão de projeto</H1>
+# RESUMO: Conceitos e fundamentos de gestão de projeto
 <H2>INTRODUÇÃO</H2>
 A Gestão de Projetos é a aplicação de conhecimento, habilidades, ferramentas e técnicas às atividades do projeto a fim de atender aos seus requisitos.
 
