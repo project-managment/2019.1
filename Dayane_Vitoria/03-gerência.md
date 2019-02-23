@@ -39,7 +39,7 @@ O gerente ideal deve possuir: </p>
 
 - Habilidades gerenciais: liderança, decisão, comunicação, capacidade de influenciar
 pessoas, negociação, resolução de conflitos, etc;
-- Conhecimento gerencial: técnicaas de gerenciamento de projetos e liderança de pessoas;
+- Conhecimento gerencial: técnicas de gerenciamento de projetos e liderança de pessoas;
 - Conhecimento técnico dos produtos a serem produzidos;
 
 <p style="text-align: justify;"> As maiores responsabilidades de um gerente são estas:</p>
