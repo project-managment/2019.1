@@ -1,4 +1,4 @@
-## 3.Gerência de projetos
+## 3.Gerência de projetos.
 #### Raul Silva de Almeida
 
 A definição de gerência de projetos pode ser dita com uma disciplina para manter um projeto em um baixo nível de risco durante o seu ciclo de vida, para isso, existe o gerente de projetos, que é o responsável por gerenciar os riscos de um projeto e desvia-lo de possíveis falhas, minimizando assim, os riscos do projeto.<br>
