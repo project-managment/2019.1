@@ -6,15 +6,16 @@ Grupos de Processos é simplesmente um agrupamento dos processos contidos no PMB
 
 
 É muito comum confundir o conceito de FASES DO PROJETO com o conceito de GRUPOS DE PROCESSOS DE GERENCIAMENTO DO PROJETO.
-| Fase do Projeto  | Grupo de processos de gerenciamento de projetos   |
-|--|--|
-| Um conjunto de atividades do projeto relacionadas de forma lógica  | Um agrupamento lógico dos processos de gerenciamento de projetos descritos no Guia do PMBOK®. |
-| Geralmente culminam com o término de uma entrega importante | Conjunto de 5 grupos necessários para qualquer projeto |
-| Na maioria dos casos, as fases do projeto são terminadas sequencialmente, mas podem se sobrepor em algumas situações do projeto. | Possuem claras dependências internas e devem ser realizados na mesma seqüência em cada projeto |
-| As fases podem ser subdivididas em subfases e depois em componentes | Independentemente da área de aplicação ou das especificações do ciclo de vida do projeto aplicado. |
-| Se o projeto ou parte do projeto estiverem divididos em fases, essa hierarquia fará parte da estrutura analítica do projeto  | Os grupos de processos de gerenciamento de projetos incluem:	1. iniciação 	2. planejamento 3. execução	4. monitoramento e controle 5. encerramento |
-| Uma fase do projeto é um componente do ciclo de vida do projeto.  | Independentemente da área de aplicação ou das especificações do ciclo de vida do projeto aplicado.  |
-| Uma fase do projeto não é um grupo de processos de gerenciamento de projetos | Os grupos de processos de gerenciamento de projetos não são fases do projeto. |
+
+| Fase do Projeto                                                                                                                   | Grupo de processos de gerenciamento de projetos   |
+|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Um conjunto de atividades do projeto relacionadas de forma lógica                                                                 | Um agrupamento lógico dos processos de gerenciamento de projetos descritos no Guia do PMBOK®.                                                         |
+| Geralmente culminam com o término de uma entrega importante                                                                       | Conjunto de 5 grupos necessários para qualquer projeto                                                                                                |
+| Na maioria dos casos, as fases do projeto são terminadas sequencialmente, mas podem se sobrepor em algumas situações do projeto.  | Possuem claras dependências internas e devem ser realizados na mesma seqüência em cada projeto                                                        |
+| As fases podem ser subdivididas em subfases e depois em componentes                                                               | Independentemente da área de aplicação ou das especificações do ciclo de vida do projeto aplicado.                                                    |
+| Se o projeto ou parte do projeto estiverem divididos em fases, essa hierarquia fará parte da estrutura analítica do projeto       | Os grupos de processos de gerenciamento de projetos incluem:	1. iniciação 	2. planejamento 3. execução	4. monitoramento e controle 5. encerramento   |
+| Uma fase do projeto é um componente do ciclo de vida do projeto.                                                                  | Independentemente da área de aplicação ou das especificações do ciclo de vida do projeto aplicado.                                                    |
+| Uma fase do projeto não é um grupo de processos de gerenciamento de projetos                                                      | Os grupos de processos de gerenciamento de projetos não são fases do projeto.                                                                         |
 
 #### Os grupos de processos de gerenciamento de projetos incluem:
 	1. iniciação
