@@ -1,6 +1,6 @@
-# 1 - Conseitos fundamentais de projetos
+# 2 - Conceitos fundamentais de projetos
 
-### Resumo
+### Resumo 1
 
   Podemos definir que projeto é "um esforço ocasional destinado à criação de algum serviço/produto/solução". Esse esforço possui características bem definidas, tais como: natureza temporária, elaboração progressiva e com restrições, que ao final resultam nos elementos de criação supracitados.
   
