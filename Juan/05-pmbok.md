@@ -20,7 +20,7 @@ Fases:
 
 2. Identificar as partes interessadas
 
-<h4><Planejamento</h4>
+<h4>Planejamento:</h4>
 
 1. Desenvolver o plano de gerenciamento do projeto
 
@@ -62,7 +62,7 @@ Fases:
 
 21. Planejar as aquisições
 
-<h4>Execução</h4>
+<h4>Execução:</h4>
 
 1. Orientar e gerenciar a execução do projeto
 
@@ -101,7 +101,7 @@ Fases:
 9. Monitorar e controlar os riscos
 
 10. Administrar as aquisições
-<h4>Encerramento</h4>
+<h4>Encerramento:</h4>
 
 1. Encerrar o projeto ou fase 1
 
@@ -126,4 +126,5 @@ Gerenciamento das comunicações do projeto
 Gerenciamento dos riscos do projeto
 
 Gerenciamento das aquisições do projeto
+
 
