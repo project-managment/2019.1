@@ -20,7 +20,7 @@ Fases:
 
 2. Identificar as partes interessadas
 
-<h4><Planejamento/h4>
+<h4><Planejamento</h4>
 
 1. Desenvolver o plano de gerenciamento do projeto
 
