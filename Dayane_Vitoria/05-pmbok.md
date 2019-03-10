@@ -18,18 +18,25 @@ e técnicas. </p>
 #### 4. Quais as áreas de conhecimentos? Cite o(s) objetivo(s) de cada área de conhecimento.
 <p style="text-align: justify;"> As áreas de conhecimentos são: 
 
-- Gerenciamento da integração do projeto: é o núcleo do gerenciamento de projetos, e é composto dos processos do dia-a-dia com os quais o gerente de projetos conta para garantir que todas as partes do projeto funcionem juntas.
-- Gerenciamento do escopo do projeto: definição do trabalho necessário para concluir o projeto, servir como guia (ou ponto de referência) para determinar que trabalho não está incluído (ou não é necessário) no projeto.
-- Gerenciamento do tempo do projeto:  descrever os processos requeridos para o término do projeto, garantindo que o mesmo cumpra com os prazos definidos em um cronograma de atividades.
-- Gerenciamento dos custos do projeto: É uma área importante para garantir que todos os custos empreendidos no projeto estejam dentro do que o patrocinador está disposto a desembolsar. Além disso, o gerenciamento permite ter uma visão dos custos de acordo com as atividades realizadas, sendo possível comprovar e justificar os gastos com determinados recursos.
-- Gerenciamento da qualidade do projeto: visa assegurar que o projeto será concluído com a qualidade desejada, satisfazendo, portanto, as necessidades do cliente e os requisitos do produto. Atualmente, a gestão da qualidade tem como preocupação básica evitar falhas.
-- Gerenciamento dos recursos humanos do projeto: Desenvolve a equipe do projeto, melhorando as competências e interação de membros da equipe para aprimorar o desempenho do projeto. 
-- Gerenciamento das comunicações do projeto
-- Gerenciamento dos riscos do projeto: são um conjunto de eventos que podem ocorrer sob a forma de ameaças ou de oportunidades que, caso se concretizem, influenciam o objectivo do projeto, negativamente ou positivamente.
-- Gerenciamento das aquisições do projeto
+- Gerenciamento da integração do projeto: a integração é responsável por desenvolver o termo de abertura do projeto, desenvolver o plano de gerenciamento do projeto, orientar e gerenciar a execução do projeto, monitorar e controlar o trabalho do projeto e realizar o controle integrado de mudanças.
+- Gerenciamento do escopo do projeto: o escopo é responsável por coletar os requisitos, definir o escopo, criar a EAP, verificar e controlar o escopo.
+- Gerenciamento do tempo do projeto: o tempo é responsável por definir as atividades, sequenciar as atividades, estimar os recursos das atividades, estimar as durações das atividades, desenvolver e controlar o cronograma.	
+- Gerenciamento dos custos do projeto: o custo é responsável por estimar os custos, determinar o orçamento e controlar os custos.
+- Gerenciamento da qualidade do projeto: a qualidade é responsável por planejar a qualidade, realizar a garantia de qualidade e	realizar o controle da qualidade.
+- Gerenciamento dos recursos humanos do projeto: os recursos humanos são responsáveis por desenvolver o plano de recursos humanos, mobilizar a equipe do projeto, desenvolver a equipe de projeto e gerenciar a equipe do projeto.
+- Gerenciamento das comunicações do projeto: a comunicação é responsável por identificar as partes interessadas, planejar as comunicações, distribuir as informações, gerenciar as expectativas das partes interessadas	e reportar o desempenho.	
+- Gerenciamento dos riscos do projeto: os riscos são responsáveis por planejar o gerenciamento dos riscos, identificar os riscos, realizar a análise qualitativa dos riscos, realizar a análise quantitativa dos riscos, planejar as respostas aos riscos, monitorar e controlar os riscos. 
+- Gerenciamento das aquisições do projeto: as aquisições são responsáveis por planejar as aquisições, conduzir as aquisições,	administrar as aquisições	e encerrar as aquisições.
 </p>
 
 5. Qual a área de conhecimento que você mais se identifica? Por que?
+<p style="text-align: justify;">A área de gerenciamento do escopo do projeto, pois gosto de ficar por dentro de todo o projeto, analisar os requisitos, definir as atividades que serão desenvolvidas, entre outros. </p>
+
 6. Qual a área de conhecimento que você mais tem conhecimento e qual você gostaria de trabalhar mais?
+<p style="text-align: justify;">A área que eu mais tenho conhecimento é a de gerenciamento de recursos humanos, e a que eu gostaria de trabalhar mais é a de gerenciamento de aquisições do projeto. </p>
+
 7. Para o PDS Corporativo, quais atividades do grupo de processo de iniciação esta sendo realizado?
+<p style="text-align: justify;">Nenhuma. </p>
+
 8. Para o PDS Corporativo, quais atividades do grupo de processo de planejamento esta sendo realizado?
+<p style="text-align: justify;"> Desenvolver o plano de gerenciamento do projeto, definir as atividades, sequenciar as atividades, estimar os recursos das atividades, estimar as durações das atividades, desenvolver o cronograma, planejar a qualidade, desenvolver o plano de recursos humanos, planejar as comunicações e planejar as aquisições. </p>
