@@ -2,7 +2,7 @@
 
 ### Aluna: Dayane Vitória Leandro Cruz
 
-#### <p style= "text-align: center;"> Resumo </p>
+#### Resumo
 
 <p style="text-align: justify;"> O PRINCE2 é um método estruturado para o efetivo gerenciamento de um projeto. Foi originalmente baseado no PROMPT, uma metodologia em gerenciamento de projetos criada pela Simpact Systems Ltd em 1975. 
 Uma característica única do PRINCE2 é a separação entre o Gerente de Projeto e o papel do Gerente da Equipe, tornando-o mais atraente e adequado para gerentes de projeto que não possuem as habilidades sociais e interpessoais que seriam necessárias para liderar e gerenciar a equipe do projeto diretamente.
@@ -34,6 +34,7 @@ do Projeto, através de relatórios e controles, informações necessárias às 
 - #### Gerenciamento da Entrega de um Produto:
 <p style="text-align: justify;"> processo que garante a criação e a entrega de produtos conforme critérios pré-estabelecidos. </p>
 
+<p style="text-align: justify;"> A chave do sucesso da utilização do PRINCE2 é a sua escalabilidade/adaptabilidade. É recomendado que cada processo seja implementado a partir da seguinte questão: "Quão extensivamente este processo deve ser aplicado para este projeto?". Dessa forma, para um projeto pequeno um processo pode ser menos formal e ser todo desenvolvido em uma reunião, enquanto que para projetos maiores, ou que envolvam maiores impactos para a organização, eles serão extensos e com mais formalidade. </p>
 
 
 
