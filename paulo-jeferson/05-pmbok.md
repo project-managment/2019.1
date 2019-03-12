@@ -1,4 +1,4 @@
-# PMBOK
+# PMBOK (Perguntas e Respostas)
 
 ## Perguntas
 
@@ -21,3 +21,5 @@
   6. *TODO*
   7. *TODO*
   8. *TODO*
+
+[*link do texto.*](https://sites.google.com/site/gerenciadeprojetosdeti/aulas-1/6---grupos-de-processos-e-areas-de-conhecimento-de-gestao-de-projeto)
