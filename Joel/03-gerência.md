@@ -12,3 +12,6 @@
    
    Ao longo da história são muitos casos que necessitaram de gerência, por isso é antiga essa necessidade do homem ter seus projeto 
    definidos e com passo que guiem rumo ao final do objetivo.
+   
+   Gerenciar um projeto inclui necessidades e objetivos claro, deve ter demandas balanceadas e com escopo, custo e tempo.A 
+   gestão deve adaptar as especificações afim de controlar as fases do projeto, sendo assim o acumulo de conhecimento é importante para aplicar em situações de projetos futuros. 
