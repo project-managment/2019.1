@@ -25,7 +25,7 @@ Os termos "Gestão" e "Liderança" são frequentemente trocados. Na verdade, mui
 Gestores podem se tornar líderes efetivos ao adotar o seguinte: Visão, Integridade, Construção de Equipe, Comunicação, Inspiração, Aprendizado Contínuo, Humildade, Construção de Relacionamento, Tomada de Risco, Recompensa e Reconhecimento.
 
 
-### **Todos os líderes são gestores?  
+### Todos os líderes são gestores?  
 
 ![](http://www.administradores.com.br/_assets/files/2016/06/breakingfree.jpg)
 
