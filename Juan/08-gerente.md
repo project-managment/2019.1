@@ -28,7 +28,7 @@ Gestores obtêm resultados apesar das pessoas. Líderes obtêm resultados por co
 
 Às vezes, gestores traçam metas que são inatingíveis para suas equipes. Líderes miram em fazer com que as pessoas alcancem seu potencial verdadeiros.
 
-<h3>. Tolerância a Risco - Busca por Risco x Aversão ao Risco. </h3>
+<h3>6. Tolerância a Risco - Busca por Risco x Aversão ao Risco. </h3>
 
 Liderança tem a ver com mudança. Líderes inovam, desenvolvem e inventam enquanto que gerentes mantêm conformidade aos padrões existentes. Eles "seguem o que está no livro". Líderes colocam novas direções já que seu foco é criar novos caminhos. Eles querem levam pessoas a lugarem que elas nunca estiveram. Gerentes as mantêm no mesmo lugar.
 
@@ -49,3 +49,6 @@ Não é impossível para um gestor se tornar um líder. Algumas vezes só é pre
 A grande necessidade por carisma e inspiração é um dever, mas, da mesma forma, sistemas devem ser monitorados e controlados para garantir que tarefas e trilhas sejam criadas para executar a visão, que é normalmente alcançada através da função de gestão. Sem habilidades gerenciais eficientes, a direção escolhida por um líder corre o risco de ser insustentável.
 
 Portanto, tanto a gestão quanto a liderança são necessárias como ambas as asas são essenciais para um voo de avião.
+
+
+
