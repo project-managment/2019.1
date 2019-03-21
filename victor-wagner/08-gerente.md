@@ -17,6 +17,8 @@ função, enquanto a liderança é um relacionamento.
 |Tolerância a risco|**Busca por Risco** / Inovação / Flexibilidade / Engloba Mudança|**Aversão ao Risco** / Padronização / Estabilidade|
 |Motivação|**Conquista** / Concretização da Visão / Coração - Paixão|**Compensação** / Recompensas Monetárias / Cabeça - Intelectual|
 
+**Conlusão**
+
 De fato, eles são bem distintos. Muitas pessoas acreditam que ser um bom líder significa automaticamente
 que você é um bom gestor e vice-versa. Às vezes excelente líderes não são capazes de gerenciar pessoas de forma efetiva
 porque estão pensando de forma muito macro (objetivos) e não o suficiente micro (detalhes).
