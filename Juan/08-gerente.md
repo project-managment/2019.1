@@ -51,4 +51,16 @@ A grande necessidade por carisma e inspiração é um dever, mas, da mesma forma
 Portanto, tanto a gestão quanto a liderança são necessárias como ambas as asas são essenciais para um voo de avião.
 
 
+# Tempo utilizado no pomodoro
 
+<h2>Tempo de leitura</h2> 
+
+O tempo gasto em leituras é por volta de 10 minutos de 1 ciclo.
+
+<h2>Tempo de descanso</h2>
+
+Cerca de 2 a minutos.
+
+<h2>Tempo gasto no resumo</h2>
+
+Dois ciclos de 10 minutos.
