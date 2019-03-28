@@ -1,4 +1,4 @@
-# Resumo: PRINCE 2 
+# Resumo: PRINCE2 
 
 <h3>Introdução</h3>
 
