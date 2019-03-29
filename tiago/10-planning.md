@@ -1,7 +1,7 @@
 # 10 - Planejamento
 **Aluno: Tiago Caio de Oliveira Lisboa**
 
-# Por que o planejamento do projeto é uma das etapas mais importante?
+## 1. Por que o planejamento do projeto é uma das etapas mais importante?
 
 O escopo do produto são as características do resultado final que será entregue e o escopo do projeto 
 é o gerenciamento dos diversos processos de gestão de projetos.
@@ -15,3 +15,11 @@ membros e envolvidos, incluindo o cliente, a estarem alinhados com o projeto, ga
 do projeto não haverá surpresas, sejam elas positivas ou negativas; os riscos, uma vez que a maioria dos 
 projetos apresenta um grau de incerteza associado; O gerenciamento das aquisições; todas as partes 
 interessadas, identificando quem são elas, quais seus interesses no projeto e qual o seu engajamento no projeto.
+
+
+## 2. Como fazer um planejamento em projetos eficientes?
+
+Esse texto aborda fatores que podem contribuir com a eficiencia de um planejamento de projetos. Entre os
+fatores citadoesestão: adotar uma metodologia padrão; estabelecer uma liderança adequada; estabelecer um 
+glossário para as partes fixas do planejamento; criar modelos para documentação; mapear as capacidades
+do time; utilizar ferramentas de gestão; e, por último, fazer testes.
