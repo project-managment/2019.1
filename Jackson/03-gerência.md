@@ -30,7 +30,7 @@ Os fatores críticos de sucesso do projeto indicam aspectos indispensáveis para
 - o cumprimento do processo de controle da mudança;
 - os aditivos ao contrato de execução do projeto.
 
-# O Gerente de Projeto
+# O Gerente de Projeto:
 
 Em função das características específicas dos projetos, existe a necessidade de uma gerência também específica para os mesmos. A gestão de projeto está envolvida com métodos de coordenar e controlar alguns tipos de atividades complexas e dinâmicas, diferenciando-se muito da administração tradicional de atividades de rotina.
 
