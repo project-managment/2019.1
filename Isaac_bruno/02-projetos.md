@@ -1,4 +1,6 @@
-# Resumo conceitos fundamentais de projeto
+# conceitos fundamentais de projetos
+
+## Isaac Bruno Lima da Silva
 
 Um projeto é um esforço temporário com ponto de início, ponto de fim, um escopo e um orçamento, a fim de criar um produto, serviço ou um resultado exclusivo. Ele tem natureza temporária, é elaborado de maneira incremental, para se adaptar às necessidades e exigências do produto do projeto e é limitado pelos recursos do interessado.
 
