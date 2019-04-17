@@ -1,4 +1,4 @@
-# 6 PRINCE2
+# 6 - PRINCE2
 ### Jackson Leandro Arruda Ferreira
 
 
