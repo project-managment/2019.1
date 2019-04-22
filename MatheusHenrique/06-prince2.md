@@ -1,0 +1,11 @@
+# 6 - PRINCE2
+
+### Resumo 5
+
+  É um método de gerenciamento de projetos não-proprietário genérico, a ponto de poder ser aplicado a qualquer projeto, independentemente de seu porte, tipo, organização, região geográfica ou cultura. Isso é possível porque o PRINCE2 isola o gerenciamento do projeto (ex.: aspectos ligados ao escopo, tempo, custo, qualidade, riscos, benefícios, tolerâncias, etc.) das contribuições especializadas (o esforço para realizar o produto, ex: design, construção, etc.). Assim, os métodos de produção dos aspectos especializados são facilmente integrados com o método PRINCE2, formando um framework completo para o projeto.
+  
+  Como o PRINCE2 é genérico e baseia-se em princípios comprovados, quem adota o método pode melhorar e muito a capacidade organizacional em divers áreas de atividades. Fora que permite a ligação com outras abordagens de condução de projetos como o SCRUM para projetos Ágeis. Abordando o gerenciamento de projeto com quatro elementos integrados (princípios, temas, processos e ambiente do projeto), o PRINCE2 foca no controle de seis objetivos principais do projeto: escopo, tempo, custo, qualidade, riscos e benefícios.
+  
+  O método possui 7 princípios com orientações obrigatórias e boas práticas que determinam se o projeto está sendo genuinamente gerenciado de acordo com o método PRINCE2. São eles: justificativa contínua do negócio (Business Case), aprender com a experiência,  papéis e responsabilidades definidos, gerenciamento por estágios, gerenciamento por exceção, foco no produto e adequação ao ambiente do projeto. Sem a aplicação de qualquer dos princípios, o projeto não estará utilizando o PRINCE2.
+
+  Os processos são percorridos de acordo com as etapas ao longo do ciclo de vida do projeto. São sete processos: starting Up a project (SU), directing a project (DP), initiating a project (IP), managing a stage boundary (SB), controlling a stage (CS), managing product delivery (MP) e closing a project (CP). Cada processo fornece listas de verificação de atividades, com recomendações de produtos (de gerenciamento de projetos, ex.: business case, descrição de produtos, relatórios, registros, notas de lição, etc.) e responsabilidades relacionadas.
