@@ -1,4 +1,7 @@
 # Resumo: PRINCE2 
+<h2>Líder Tarefa 1</h2>
+
+<h4>Juan Felipe Ibañez Ferreira</h4>
 
 <h3>Introdução</h3>
 
