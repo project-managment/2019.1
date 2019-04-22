@@ -1,3 +1,8 @@
+<h2>Gerente Tarefa 1</h2>
+
+<h4>Juan Felipe Ibañez Ferreira</h4>
+
+
 # Resumo: Você é um líder ou um gestor? Por que não os dois?
 
 <h2>Liderança x Gestão - Qual a diferença?</h2>
