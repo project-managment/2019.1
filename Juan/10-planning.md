@@ -150,7 +150,7 @@ O modelo pode ser utilizado gradativamente em projetos mais complexos e, por mei
 
 Investir em um modelo de planejamento em projetos é a maneira mais segura de garantir eficiência para sua gestão, padronizar a comunicação e facilitar a execução das atividades no menor prazo possível.
 
-#Resumo 3: Como Planejar um Projeto Ágil: A Estratégia dos 3 Níveis
+# Resumo 3: Como Planejar um Projeto Ágil: A Estratégia dos 3 Níveis
 
 
 Para começar a planejar o seu projeto ágil de modo estratégico você precisa responder estas três perguntas, que resumem os 3 níveis do planejamento ágil:
