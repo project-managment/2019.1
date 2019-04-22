@@ -1,4 +1,4 @@
-# Resumo: Por que o planejamento do projeto é uma das etapas mais importante?
+# Resumo 1: Por que o planejamento do projeto é uma das etapas mais importante?
 <h3>Qual o “segredo” dos chineses?</h3>
 
 Pense em quantas obras esta empresa que constrói um prédio em 6 dias pode fazer em comparação com aquela que faz um prédio em 3 meses?
