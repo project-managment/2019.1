@@ -1,3 +1,7 @@
+<h2>Gerente Tarefa 2</h2>
+
+<h4>Juan Felipe Ibañez Ferreira</h4>
+
 # Tempo utilizado no pomodoro
 
 <h2>Tempo de leitura</h2> 
