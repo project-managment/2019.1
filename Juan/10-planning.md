@@ -214,14 +214,68 @@ Você também pode aplicar a mesma técnica de visualização que utilizou no se
 O Planejamento Estratégico de Projetos Ágeis é um exercício iterativo como qualquer outra atividade no contexto ágil. O segredo é perceber que à medida que a percepção do Product Owner se aprimora, o produto cresce ou seu mercado evolui a Visão do Produto e o planejamento estratégico também pode naturalmente evoluir.
 
 Ao aplicar uma abordagem ágil para o planejamento estratégico de seu projeto, você pode aumentar significativamente as chances de sucesso de atingir os objetivos da Visão do seu produto e causar um impacto positivo muito além do que você imaginou apenas em seu Release Plan.
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
+
+# Resumo 4: Planejamento de projetos: 6 erros que não podem ser cometidos.
+
+Um planejamento de projetos eficiente é resultado de um trabalho minucioso do gerente e de sua equipe. O problema é que alguns detalhes da execução podem passar despercebidos, levando a erros simples, mas capazes de prejudicar todo o andamento do trabalho.
+
+Por isso, quanto mais preparado você estiver, maiores as chances de sucesso. Para que o seu projeto não sofra nenhum contratempo, que tal saber um pouco mais sobre os erros que não podem ser cometidos?
+
+<h3>1. Falta de planejamento de projetos</h3>
+
+mprevistos acontecem, mas um planejamento mal-executado está mais suscetível aos problemas trazidos por eles. Infelizmente, esse erro acontece mesmo entre os gerentes de projetos mais experientes.
+
+O planejamento ideal é aquele que permite que você consiga acompanhar todas as atividades envolvidas, mantendo o projeto dentro do prazo. Por ele, você também consegue prever custos, conferindo se as atividades estão dentro do previsto.
+
+Lembre-se que cada projeto possui suas especificidades. Aqui não há espaço para o reaproveitamento de planejamentos anteriores. 
+
+
+<h3>2. Problemas de comunicação com a equipe</h3>
+
+Problemas na comunicação entre gerente e equipe podem comprometer não apenas o planejamento do projeto, mas a execução e entrega.
+
+Tudo precisa estar bem detalhado e cada integrante deve ter em mente quais são as suas responsabilidades dentro do projeto. Cabe a você, gerente, mostrar como os objetivos serão atingidos e determinar as datas para a entrega das atividades.
+
+Outro ponto importante relacionado ao planejamento e que também se refere à comunicação é saber ouvir. Você é o principal responsável pelo planejamento de um projeto, mas nunca será capaz de resolvê-lo sozinho.
+
+Seja paciente, saiba ouvir as demandas e sugestões da equipe durante o planejamento do projeto e na execução.
+
+<h3>3. Implementação de um cronograma irreal</h3>
+
+A elaboração de um cronograma está entre as atribuições do gerente de projetos e é um item que pode levar a erros ainda na fase do planejamento.
+
+O primeiro acontece por falha do próprio responsável pelos projetos ao definir prazos impraticáveis à equipe. O resultado é o não cumprimento das tarefas ou até mesmo má execução de uma atividade. Em outros casos, pode ocorrer também uma pressão externa do cliente que impõe um prazo sem entender todo os processos necessários para a execução do projeto.
+
+O melhor caminho é a elaboração de um cronograma realista, que resulta em tarefas concluídas dentro de prazos e custos acordados e também envolve diálogo, tanto com a equipe quanto com o cliente.
+
+Ainda na elaboração do planejamento de projetos, converse com seu time e entre em acordo para o cumprimento de tarefas. Identifique os profissionais mais preparados atribuindo as tarefas mais importantes e se, necessário, coloque-os em dedicação exclusiva.
+
+Definir prioridades e dividir as entregas das atividades do projeto em curto, médio e longo prazo são também uma boa alternativa para o acompanhamento do cronograma pelo cliente.
+
+<h3>4. Alterações no escopo do projeto</h3>
+
+Como responsável pelo gerenciamento de projetos cabe a você acompanhar as alterações ainda no planejamento inicial, mantendo, na medida do possível, os prazos e orçamentos previstos.
+
+Também é necessário não deixar que as solicitações dos clientes no escopo do projeto prejudiquem a entrega. É comum que eles não entendam que essas alterações têm impactos nos custos e prazos do projeto.
+
+<h3>5. Mau gerenciamento de riscos</h3>
+
+Verifique atentamente o projeto, confira etapas, prazos, custos e envolvidos. É ainda no planejamento que o gerente de projetos realiza um levantamento dos principais problemas possíveis por meio de um plano para o gerenciamento de riscos.
+
+Identifique os riscos, a probabilidade e os impactos que ele pode provocar no projeto. Liste cada um dos deles e, após analisá-los e classificá-los entre positivos e negativos, elabore um plano de ação para reduzir os que possam impactar negativamente o projeto. No caso de ter encontrado riscos positivos, pense em como os resultados podem ser maximizados.
+
+Esses riscos podem ou não se tornar reais depois do planejamento. De toda forma, você estará preparado para aproveitar as oportunidades quando surgirem, assim como terá à disposição alternativas para lidar com imprevistos.
+
+Não se esqueça que esse levantamento continua ao longo do desenvolvimento do projeto e o gerenciamento de riscos também, até a conclusão e entrega, portanto, esteja sempre de atento!
+
+
+<h3>6. Não utilização de um sistema de gestão</h3>
+
+O gerente de projetos vive uma rotina cheia de atribuições. Muitas vezes ele se vê envolvido com vários projetos ao mesmo tempo, cada um em uma etapa diferente. Além disso, precisa acompanhar as entregas da equipe, os pedidos dos clientes e ainda prestar contas sobre o desempenho das tarefas.
+
+Não é por acaso que o planejamento de projetos produzido nessas condições pode trazer alguns dos erros que citamos ao longo deste artigo.
+
+A solução ideal para um planejamento bem executado e com grandes chances de sucesso é o uso de uma ferramenta de gestão de projetos. Ela permite a você um maior controle dos processos, obtendo os melhores resultados no gerenciamento dos seus projetos.
+
+Um software de gestão de projetos pode ser útil ainda na fase do planejamento. Em um único lugar, os cronogramas, indicadores de desempenho e andamento das tarefas são apenas alguns dos recursos que você tem a disposição para o acompanhamento de todas as fases do projeto.
+
