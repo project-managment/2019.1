@@ -1,3 +1,8 @@
+<h2>Líder Tarefa 1</h2>
+
+<h4>Juan Felipe Ibañez Ferreira</h4>
+
+
 # Resumo: Liderança
 
 A condução de um grupo de pessoas, transformando-o numa equipe que gera resultados, é chamada de liderança. É a habilidade de motivar e influenciar os liderados, de forma ética e positiva, para que contribuam voluntariamente e com entusiasmo para alcançarem os objetivos da equipe e da organização.
