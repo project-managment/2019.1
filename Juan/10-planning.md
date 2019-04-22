@@ -59,7 +59,7 @@ Cada etapa, próximo passo, problemas e mudanças devem ser claramente comunicad
 
 <h3>Planejar o Gerenciamento dos Riscos</h3>
 
-ara realizar o planejamento dos riscos devemos identificar quais riscos podem impactar de alguma forma nosso projeto, este impacto pode ser positivo ou negativo. Após levantar os possíveis riscos devemos analisar quais as chances destes riscos ocorrerem e qual seu impacto para o projeto. Esta análise pode ser feita de forma qualitativa, quantitativa ou utilizando ambas as abordagens.
+Para realizar o planejamento dos riscos devemos identificar quais riscos podem impactar de alguma forma nosso projeto, este impacto pode ser positivo ou negativo. Após levantar os possíveis riscos devemos analisar quais as chances destes riscos ocorrerem e qual seu impacto para o projeto. Esta análise pode ser feita de forma qualitativa, quantitativa ou utilizando ambas as abordagens.
 
 Por fim deve-se planejar uma resposta para cada risco, podendo incluir ações para prevenir, transferir, mitigar ou aceitar riscos negativos e explorar, melhorar, compartilhar ou aceitar riscos positivos. Riscos negativos são aquelas incertezas que podem prejudicar o projeto e riscos positivos são aquelas que podem melhorar as condições do projeto.
 
