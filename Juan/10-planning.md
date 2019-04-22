@@ -1,3 +1,13 @@
+<h2>Tarefa sobre Planejamento</h2>
+
+
+
+<h4>Aluno: Juan felipe Ibañez Ferreira.</h4>
+
+
+
+
+
 # Resumo 1: Por que o planejamento do projeto é uma das etapas mais importante?
 <h3>Qual o “segredo” dos chineses?</h3>
 
