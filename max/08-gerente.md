@@ -16,7 +16,7 @@ Tempo gasto leitura 15 minutos.
 
 <h2>Liderança x Gestão - Qual a diferença?</h2>
 
-Os termos "Gestão" e "Liderança" geralmente são confundidos,e na maioria dos casos as pessoas enxergam como a mesma coisa.
+Os termos "Gestão" e "Liderança" geralmente são confundidos, e na maioria dos casos as pessoas enxergam como a mesma coisa.
 Liderança é a capacidade de incentivar grupos a alcançarem seus objetivos, e a gestão usa a autoridade inerente da hierarquia formal para obter cumprimentos e membros organizacionais, faz um conjunto de processos que mantem uma organização funcionando.
 
 A gestão é uma função que pode ser ensinada e aprendida, enquanto a liderança é torna-se um relacionamento e tem a ver com que as pessoas entendam e acredite na sua visão e trabalhe com você para alcançar seus objetivos.
@@ -31,7 +31,7 @@ Os lideres estão focados no futuro, na missão e no panorama de forma geral, e 
 
 <h2>3. Estilo - Transformacional x Transacional</h2>
 
-O lider é escolhido pela equipe que vai trabalhar, o gerente ele que escolhe sua equipe. O gestor depende do controle, o lider vai depender da confiança. Lideres focam em contruir equipes, fazem treinamentos de individuos para ter crescimento e expandir, um lider tem como papel importante em liderar e motivar equipes para alcançar novos objetivos.
+O lider é escolhido pela equipe que vai trabalhar, o gerente ele que escolhe sua equipe. O gestor depende do controle, o lider vai depender da confiança. Lideres focam em construir equipes, fazem treinamentos de individuos para ter crescimento e expandir, um lider tem como papel importante em liderar e motivar equipes para alcançar novos objetivos.
 
 <h2>4. Poder - Influência x Autoridade Formal</h2>
 
@@ -39,7 +39,7 @@ Lideres tem o respeito, gestores mandam, o termo gestor significa administrador,
 
 <h2>5. Foco - Orientado a Pessoas x Orientado a Tarefas</h2>
 
-Gestores obtêm os resultados apesar das pessoas, já os lideres obtêm resultados por conta das pessoas. Os gestores traçam metas que são inatingíveis para suas equipes, e os lideres miram em pessoas a alcancem seu potencial verdadeiros e geralmente dão muita importância a valores éticos.
+Gestores obtêm os resultados apesar das pessoas, já os lideres obtêm resultados por conta das pessoas. Os gestores traçam metas que são inatingíveis para suas equipes, e os lideres miram em pessoas a alcançarem seu potencial verdadeiros e geralmente dão muita importância a valores éticos.
 
 <h2>6. Tolerância a Risco - Busca por Risco x Aversão ao Risco.</h2>
 
@@ -59,5 +59,4 @@ Para muitas pessoas acreditam que ser um bom líder também é um bom gestor ou 
 
 <h2>Conclusão</h2>
 
-A liderança está a frente da administração, uma organização bem equilibrada possui uma boa liderança em sua base, grandes líderes do mundo não funcionavam sob títulos formais ou confinamentos uma organização determinada.
-
+A liderança está a frente da administração, uma organização bem equilibrada possui uma boa liderança em sua base, grandes líderes do mundo não funcionavam sob títulos formais ou dentro dos confinamentos em uma organização determinada.
