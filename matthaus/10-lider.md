@@ -7,7 +7,7 @@ poder de referência, em função das qualidades e do carisma do líder e poder 
 Existem tipos e estilos de liderança, podendo ser uma liderança liberal, democrática, participativa, entre outros, com estilos conselheiros, visionários ou dirigista.<br>
 Para os estudiosos, o tema "liderança" ainda divide opiniões, para alguns, o "dom" de ser líder nasce com o indivíduo, enquanto para outros, a liderança é uma competência que o indivíduo desenvolve.
 
-
-##Tempos do pomodoro
+## Tempo dos pomodoros
   * Leitura : 25mins
   * Resumo : 15mins
+   
