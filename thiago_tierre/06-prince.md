@@ -1,5 +1,5 @@
-RESUMO PRINCE2
-==============
+RESUMO PRINCE
+=============
 
 O Prince2 de origin Britânica já é utilizado em mais de 150 apíses de todas as regiões do mundo, é um metodo de gerênciamento de projetos estruturado com base na esperiência obtida com milhares de projetos, o mesmo e adaptavel a qualquer tipo, tamanho é pode ser aplicado a qualquer projeto. Isso se dá porque o Prince2 isola aspectos do gerenciamento do trabalho de projeto das contribuições especializadas, como arquitetura, desenvolvimento, construção, e etc.
 O manual(Prince2) busca responder varias duvidas de pessoas envolvidas com projetos, seus papeis e responsabilidades. Para o Prince2 projetos são vistos como meios de induzimos mudanças ou seja projeto é uma organização temporária criada com o propósito de entregar um ou mais produtos de negócio.
