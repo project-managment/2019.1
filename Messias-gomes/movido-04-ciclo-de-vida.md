@@ -1,9 +1,9 @@
-3 - Ciclo de vida do projeto e processos de gestão de projeto
-INTRODUÇÃO
+#### 4 - Ciclo de vida do projeto e processos de gestão de projeto
 
 
 
-CARACTERÍSTICAS
+
+#### CARACTERÍSTICAS
 
 Um ciclo de vida de um projeto geralmente é composto por fases sequenciais. Em cada fase há pessoas responsáveis pela realização e controle dos trabalhos técnicos. 
 
@@ -39,7 +39,7 @@ não importa se grandes ou pequenos, simples ou complexos, todos os projetos pod
 • Execução do trabalho do projeto e
 • Encerramento do projeto.
 
-DEFININDO UM CICLO DE VIDA
+#### DEFININDO UM CICLO DE VIDA
 
 Definir o ciclo de vida do projeto é importante porque promove:
 • a definição das atividades a serem executadas;
@@ -53,7 +53,7 @@ ponto exato em que o projeto se encontra e as correções necessárias;
 Quando uma fase do ciclo de vida é ignorada ou não é cumprida, seu reflexo vem logo em seguida, iniciando uma série de problemas.
 
 
-CICLO DE VIDA DO PROJETO E CICLO DE VIDA DO PRODUTO
+#### CICLO DE VIDA DO PROJETO E CICLO DE VIDA DO PRODUTO
 
 Segundo o PMBOK, o ciclo de vida do produto é um conjunto de fases do produto, geralmente em ordem sequencial que não se sobrepõem,
 determinadas pela necessidade de produção e controle da organização . A última fase do ciclo de vida de um produto geralmente é a deterioração
@@ -89,7 +89,7 @@ Esses processos são importantes porque orientam a aplicação do conhecimento e
 em cinco grupos, definidos como grupos de processos de gestão de projetos e podem ser visualizados na tabela abaixo:
 
 
- GRUPO DE PROCESSO	 DEFINIÇÃO
+ #### GRUPO DE PROCESSO	 DEFINIÇÃO
  Iniciação	 Processos realizados para defi nir um novo projeto ou
 uma nova fase de um projeto existente através da
 obtenção de autorização para iniciar o projeto ou a
